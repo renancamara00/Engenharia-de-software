@@ -1,4 +1,4 @@
-# Projeto plataforma de descontos de jogos
+# 🖥️ Projeto plataforma de descontos de jogos
 
 ### Resumo
 
