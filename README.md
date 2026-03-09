@@ -2,7 +2,7 @@
 
 ### Resumo
 
-Este repositorio contem o desenvolvimento de uma plataforma de desconto de jogos, voltado para registrar jogos em desconto, informar preço, alertar o usuario do desconto, direcionar o usuario até a plataforma que esta com o desconto.
+Plataforma agregadora de ofertas de jogos. Este repositório contém o desenvolvimento de uma solução para monitoramento de preços, permitindo registrar promoções, enviar alertas de descontos em tempo real e redirecionar o usuário diretamente para a loja de origem.
 
 #
 
