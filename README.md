@@ -11,7 +11,7 @@ Plataforma agregadora de ofertas de jogos. Este repositório contém o desenvolv
 ### **Backend**
 *   **Linguagem/Framework:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) com ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) (ou ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) com ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)). 
 *   **Arquitetura:** RESTful API. 
-*   **Agendamento (Cron Jobs):** BullMQ ou ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=plastic&logo=celery&logoColor=ddf4a4). 
+*   **Agendamento (Cron Jobs):** ![BullMQ](https://img.shields.io/badge/BullMQ-black?style=plastic&logo=BullMQ&logoColor=white) ou ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=plastic&logo=celery&logoColor=ddf4a4). 
 *   **Web Scraping:** ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic&logo=Puppeteer&logoColor=black) ou ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3670A0?style=plastic&logo=beautifulsoup&logoColor=ffdd54). 
 
 ### **Frontend (Web)**
