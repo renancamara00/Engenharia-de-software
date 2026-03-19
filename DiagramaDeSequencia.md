@@ -7,5 +7,5 @@
 	
 	U->>P: Pesquisa o jogo de interesse
 	P->>B: Procura o jogo pesquisado
-	B-->P: Retorna o jogo procurado
+	B-->>P: Retorna o jogo procurado
 	P->>E: Manda para a plataforma com o jogo
