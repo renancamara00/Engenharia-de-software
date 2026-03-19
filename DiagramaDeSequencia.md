@@ -13,5 +13,5 @@
 	B-->>Back: Retorna o local com o menor preço e o preço
 	Back-->>P: Retorna o local do jogo e preço
 	P-->>U: Informa pro usuário o preço e plataforma que esta o jogo
-	P->>E: Manda para a plataforma com o jogo
+	U->>E: Manda para a plataforma com o jogo
 	
